@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/sharsh07-dev/MySolvedProblems/tree/master/0451-sort-characters-by-frequency) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sharsh07-dev/MySolvedProblems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Sorting
 |  |
 | ------- |
@@ -44,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sharsh07-dev/MySolvedProblems/tree/master/0347-top-k-frequent-elements) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sharsh07-dev/MySolvedProblems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sharsh07-dev/MySolvedProblems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
