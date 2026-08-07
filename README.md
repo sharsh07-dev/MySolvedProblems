@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/sharsh07-dev/MySolvedProblems/tree/master/0451-sort-characters-by-frequency) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sharsh07-dev/MySolvedProblems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/sharsh07-dev/MySolvedProblems/tree/master/1903-largest-odd-number-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -53,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sharsh07-dev/MySolvedProblems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Math
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/sharsh07-dev/MySolvedProblems/tree/master/1903-largest-odd-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/sharsh07-dev/MySolvedProblems/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
