@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sharsh07-dev/MySolvedProblems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0347-top-k-frequent-elements](https://github.com/sharsh07-dev/MySolvedProblems/tree/master/0347-top-k-frequent-elements) |
+| [0704-binary-search](https://github.com/sharsh07-dev/MySolvedProblems/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -81,4 +82,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sharsh07-dev/MySolvedProblems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0704-binary-search](https://github.com/sharsh07-dev/MySolvedProblems/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
