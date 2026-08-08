@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sharsh07-dev/MySolvedProblems/tree/master/0005-longest-palindromic-substring) |
 | [0451-sort-characters-by-frequency](https://github.com/sharsh07-dev/MySolvedProblems/tree/master/0451-sort-characters-by-frequency) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sharsh07-dev/MySolvedProblems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/sharsh07-dev/MySolvedProblems/tree/master/1903-largest-odd-number-in-string) |
@@ -62,4 +63,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/sharsh07-dev/MySolvedProblems/tree/master/1903-largest-odd-number-in-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/sharsh07-dev/MySolvedProblems/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/sharsh07-dev/MySolvedProblems/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/sharsh07-dev/MySolvedProblems/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
