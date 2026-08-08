@@ -38,10 +38,12 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sharsh07-dev/MySolvedProblems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0347-top-k-frequent-elements](https://github.com/sharsh07-dev/MySolvedProblems/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sharsh07-dev/MySolvedProblems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0347-top-k-frequent-elements](https://github.com/sharsh07-dev/MySolvedProblems/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sharsh07-dev/MySolvedProblems/tree/master/0005-longest-palindromic-substring) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sharsh07-dev/MySolvedProblems/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
